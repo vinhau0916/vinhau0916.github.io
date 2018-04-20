@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes');
+
+*{
+	margin: 0;
+	padding:0;
+
+}
+
+body {
+	/*background-image: url(https://media.istockphoto.com/vectors/seamless-pattern-with-hand-drawn-stars-vector-id649004742?s=2048x2048);*/
+	/*overflow-x: hidden;*/
+	
+}
+
+#container{
+	width: 100vw;
+	margin: 0 auto;
+	background-color: white;
+	
+}
+
+ul{
+	background-color: #ffffff;
+	width:100;
+	height: 60px;
+
+}
+
+ul li{
+	float:left;
+	padding-left:122px;
+	list-style-type: none;
+	line-height: 60px;
+}
+
+
+ul li a {
+	text-decoration: none;
+	color:black;
+
+}
+
+ul li a:hover {
+	color:black;
+	font-weight:bold;
+
+}
+
+h1{
+	text-align: center;
+	font-family: 'Great Vibes', cursive;
+	border: 4px dashed #83A5AB;
+	width:400px;
+	padding:30px;
+	margin: 20px auto;
+
+}
+
+h2{
+	text-align: center;
+}
+
+
+h3{
+	color:black;
+	font-style: italic;
+
+
+}
+
+/*#sketch{*/
+	width: 100%;
+	height:50vh;
+	border: none;
+
+}
+
+
+}
+
+div{
+	background-color: #ffffff;
+	width: 100%;
+	height: 400px;
+	text-align: center;
+	margin:0 auto;
+
+}
+
+/*div img {
+	height: 300px;
+    width: 50%;
+}*/
+
+
+div video {
+	width: 100%;
+}
+
+/*.colorpurple{
+	color:purple;
+}*/
