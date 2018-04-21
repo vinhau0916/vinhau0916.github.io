@@ -6,11 +6,6 @@
 
 }
 
-body {
-	/*background-image: url(https://media.istockphoto.com/vectors/seamless-pattern-with-hand-drawn-stars-vector-id649004742?s=2048x2048);*/
-	/*overflow-x: hidden;*/
-	
-}
 
 #container{
 	width: 100vw;
@@ -69,6 +64,8 @@ h3{
 }
 
 
+
+
 }
 
 div{
@@ -86,8 +83,8 @@ div{
 }*/
 
 
-/*div video {*/
-	/*width: 100%;*/
+div video {
+	width: 100%;
 }
 
 /*.colorpurple{
