@@ -3,7 +3,7 @@ var bubbles = [];
 
 function setup() {
   // put setup code here
-   createCanvas(700, 700);
+   createCanvas(windowWidth, windowHeight);
 }
 
 function draw() {
